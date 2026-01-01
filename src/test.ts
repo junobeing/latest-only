@@ -1,4 +1,4 @@
-import { latest } from "./latest";
+import { latest } from "./latest.js";
 
 const wait = (ms: number) =>
   new Promise(resolve => setTimeout(resolve, ms));

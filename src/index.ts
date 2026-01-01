@@ -1,2 +1,3 @@
-export { latest } from "./latest";
-export { createController } from "./controller";
+export { latest } from "./latest.js";
+export { createController } from "./controller.js";
+export { useLatest } from "./useLatest.js";
