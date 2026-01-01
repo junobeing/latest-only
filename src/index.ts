@@ -1,0 +1,1 @@
+export { latest } from "./latest";
